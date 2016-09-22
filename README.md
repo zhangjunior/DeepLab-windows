@@ -1,7 +1,5 @@
 # DeepLab Caffe
 
-[![Build status](https://ci.appveyor.com/api/projects/status/128eg95svel2a2xs?svg=true)] (Windows build)
-
 ## Windows Setup
 **Requirements**: Visual Studio 2013
 
